@@ -1,0 +1,2 @@
+[(0.7853333333333333, [[{'data_type': 'tf_idf', 'stop_words': True, 'stemming': False, 'lemmatize': True, 'max_df': 0.6, 'min_df': 0, 'max_features': None, 'k': 64, 'dist_fn': 'euclidean'}, {'confusion_matrix': array([[2705, 1035],
+       [ 575, 3185]], dtype=int64), 'f1_score': 0.7982456140350876, 'accuracy_score': 0.7853333333333333}]])]
